@@ -2,7 +2,7 @@
   {
     "author": "Chinua Achebe",
     "country": "Nigeria",
-    "imageLink": "images/things-fall-apart.jpg",
+    "imageLink": "https://www.booktopia.com.au/blog/wp-content/uploads/2018/12/the-arsonist.jpg",
     "language": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
     "pages": 209,
@@ -12,7 +12,7 @@
   {
     "author": "Hans Christian Andersen",
     "country": "Denmark",
-    "imageLink": "images/fairy-tales.jpg",
+    "imageLink": "https://www.booktopia.com.au/blog/wp-content/uploads/2018/12/the-arsonist.jpg",
     "language": "Danish",
     "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
     "pages": 784,
@@ -22,7 +22,7 @@
   {
     "author": "Dante Alighieri",
     "country": "Italy",
-    "imageLink": "images/the-divine-comedy.jpg",
+    "imageLink": "https://www.booktopia.com.au/blog/wp-content/uploads/2018/12/the-arsonist.jpg",
     "language": "Italian",
     "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
     "pages": 928,
@@ -292,7 +292,7 @@
   {
     "author": "Euripides",
     "country": "Greece",
-    "imageLink": "images/medea.jpg",
+    "imageLink": "https://www.booktopia.com.au/blog/wp-content/uploads/2018/12/the-arsonist.jpg",
     "language": "Greek",
     "link": "https://en.wikipedia.org/wiki/Medea_(play)\n",
     "pages": 104,
